@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/pricecheckbot.github.io/',
+  base: '/pricetrackbot.github.io/',
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
     alias: {
